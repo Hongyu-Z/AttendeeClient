@@ -25,13 +25,23 @@
                                     <action selector="didTapConnectWithLinkedIn:" destination="BYZ-38-t0r" eventType="touchUpInside" id="Kk7-56-407"/>
                                 </connections>
                             </button>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="center" horizontalHuggingPriority="251" verticalHuggingPriority="251" ambiguous="YES" misplaced="YES" text="show status here" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="cc7-h7-FvT">
+                                <rect key="frame" x="181" y="82" width="238" height="21"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                <color key="textColor" cocoaTouchSystemColor="darkTextColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
                         </subviews>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
                         <constraints>
                             <constraint firstAttribute="centerX" secondItem="tot-kG-XUT" secondAttribute="centerX" id="2OX-1b-l5h"/>
+                            <constraint firstAttribute="centerX" secondItem="cc7-h7-FvT" secondAttribute="centerX" id="It9-zF-2Rd"/>
                             <constraint firstAttribute="centerY" secondItem="tot-kG-XUT" secondAttribute="centerY" id="kyC-2t-dSW"/>
                         </constraints>
                     </view>
+                    <connections>
+                        <outlet property="statusLabel" destination="cc7-h7-FvT" id="b5o-d5-uSM"/>
+                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
             </objects>

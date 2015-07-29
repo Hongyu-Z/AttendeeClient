@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>3D2F5358-F2CD-480D-A72C-21511FA4FCF3</string>
+	<key>IDESourceControlProjectName</key>
+	<string>SwiftAttendees</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>8C1DC21651C11EA3BFEA6A91C2BC1CC2F09422AE</key>
+		<string>https://github.com/concurlabs/SwiftAttendeeCollector.git</string>
+		<key>F2A7C9570E446BCA581D11D30F3CC50AE0953642</key>
+		<string>https://github.com/concurlabs/SwiftAttendees.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>SwiftAttendees.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>8C1DC21651C11EA3BFEA6A91C2BC1CC2F09422AE</key>
+		<string>../../SwiftAttendeeCollector</string>
+		<key>F2A7C9570E446BCA581D11D30F3CC50AE0953642</key>
+		<string>..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/concurlabs/SwiftAttendees.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>F2A7C9570E446BCA581D11D30F3CC50AE0953642</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>8C1DC21651C11EA3BFEA6A91C2BC1CC2F09422AE</string>
+			<key>IDESourceControlWCCName</key>
+			<string>SwiftAttendeeCollector</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>F2A7C9570E446BCA581D11D30F3CC50AE0953642</string>
+			<key>IDESourceControlWCCName</key>
+			<string>SwiftAttendees</string>
+		</dict>
+	</array>
+</dict>
+</plist>
